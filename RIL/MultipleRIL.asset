@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MultipleRIL
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4640595134952557245
+  m_GuidHigh: 11337898735296188047
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5427256023457307126
+      m_GuidHigh: 15325631006321541545
+    m_SerializedTextureGuid:
+      m_GuidLow: 340896873311910241
+      m_GuidHigh: 1009047459855438024
+    m_Size: {x: 0.1, y: 0.10130435}
+    m_SpecifySize: 1
+    m_Name: Charmander
+    m_Texture: {fileID: 2800000, guid: 6ecc39611be604bbc890318e51db000e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5026395715361421804
+      m_GuidHigh: 13407023975701371293
+    m_SerializedTextureGuid:
+      m_GuidLow: 14182845120818597738
+      m_GuidHigh: 16352724051079088395
+    m_Size: {x: 0.1, y: 0.10766551}
+    m_SpecifySize: 1
+    m_Name: Pikachu
+    m_Texture: {fileID: 2800000, guid: 52c64f6a967ec4d30b498e4ee28bf0e2, type: 3}
